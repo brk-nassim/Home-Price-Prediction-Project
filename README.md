@@ -3,7 +3,7 @@
 Projet de machine learning qui prédit le prix des maisons à partir de données.
 
 ## Aperçu
-![Aperçu](screenshot/capture interface ML.png)
+![Aperçu](screenshots/capture-interface.png)
 
 ## Description
 Ce projet utilise un modèle de machine learning entraîné en Python.
